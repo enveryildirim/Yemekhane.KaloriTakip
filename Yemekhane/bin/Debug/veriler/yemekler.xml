@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Yemek>
+    <AD>YAYLA ÇORBASI</AD>
+    <Kalori>1200</Kalori>
+  </Yemek>
+  <Yemek>
+    <AD>HELVA</AD>
+    <Kalori>2000</Kalori>
+  </Yemek>
+  <Yemek>
+    <AD>MERCİMEK-1000</AD>
+    <Kalori>1000</Kalori>
+  </Yemek>
+</DocumentElement>

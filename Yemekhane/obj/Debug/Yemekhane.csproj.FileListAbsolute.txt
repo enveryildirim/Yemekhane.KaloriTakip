@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\bin\Debug\Yemekhane.exe
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\bin\Debug\Yemekhane.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.Form_Yemek.resources
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.exe
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\Yemekhane\Yemekhane\obj\Debug\Yemekhane.Form_Ana.resources

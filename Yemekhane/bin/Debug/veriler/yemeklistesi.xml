@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <YemekListesi>
+    <Tarih>20 Şubat 2016 Cumartesi</Tarih>
+    <Ogun>ÖĞLE</Ogun>
+    <a1>ZEYTİN</a1>
+    <a2>ZEYTİN</a2>
+    <a3>ZEYTİN</a3>
+    <a4>ZEYTİN</a4>
+    <a5>ZEYTİN</a5>
+    <a6>ZEYTİN</a6>
+    <a7>ZEYTİN</a7>
+    <ToplamKalori>7000</ToplamKalori>
+  </YemekListesi>
+  <YemekListesi>
+    <Tarih>13 Şubat 2016 Cumartesi</Tarih>
+    <Ogun>ÖĞLE</Ogun>
+    <a1>YAYLA ÇORBASI</a1>
+    <a2>.......</a2>
+    <a3>.......</a3>
+    <a4>.......</a4>
+    <a5>.......</a5>
+    <a6>.......</a6>
+    <a7>.......</a7>
+    <ToplamKalori>1200</ToplamKalori>
+  </YemekListesi>
+  <YemekListesi>
+    <Tarih>26 Şubat 2016 Cuma</Tarih>
+    <Ogun>SABAH</Ogun>
+    <a1>HELVA</a1>
+    <a2>ZEYTİN</a2>
+    <a3>ZEYTİN</a3>
+    <a4>HELVA</a4>
+    <a5>ZEYTİN</a5>
+    <a6>ZEYTİN</a6>
+    <a7>HELVA</a7>
+    <ToplamKalori>10000</ToplamKalori>
+  </YemekListesi>
+  <YemekListesi>
+    <Tarih>06 Mayıs 2016 Cuma</Tarih>
+    <Ogun>ÖĞLE</Ogun>
+    <a1>YAYLA ÇORBASI</a1>
+    <a2>YAYLA ÇORBASI</a2>
+    <a3>HELVA</a3>
+    <a4>YAYLA ÇORBASI</a4>
+    <a5>.......</a5>
+    <a6>.......</a6>
+    <a7>.......</a7>
+    <ToplamKalori>5600</ToplamKalori>
+  </YemekListesi>
+  <YemekListesi>
+    <Tarih>29 Nisan 2016 Cuma</Tarih>
+    <Ogun>AKŞAM</Ogun>
+    <a1>MERCİMEK-1000</a1>
+    <a2>HELVA</a2>
+    <a3>MERCİMEK-1000</a3>
+    <a4>MERCİMEK-1000</a4>
+    <a5>.......</a5>
+    <a6>.......</a6>
+    <a7>.......</a7>
+    <ToplamKalori>5000</ToplamKalori>
+  </YemekListesi>
+</DocumentElement>
